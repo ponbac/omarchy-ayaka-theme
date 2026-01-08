@@ -1,5 +1,5 @@
-@define-color background rgba(0, 0, 0, 0);
-@define-color waybarBg rgba(38,38,38,0.3);
+@define-color background #121212;
+@define-color waybarBg #121212;
 @define-color foreground      #e6e6e6;
 @define-color surface         #404040;
 @define-color inactive        #404040;
